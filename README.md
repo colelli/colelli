@@ -40,6 +40,7 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=flat&logo=numpy&logoColor=white) 
 ![Scipy](https://img.shields.io/badge/SciPy-8CAAE6.svg?style=flat&logo=scipy&logoColor=black) 
 
+<!--
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lorenzo-colelli) 
 
@@ -55,7 +56,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 
-<!--
+
 **colelli/colelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
