@@ -1,6 +1,6 @@
 ## 💫 Hi everyone, I am Lorenzo:
 🌱 I'm on a journey to learn Godot 4.3<br>
-🎮 I am a gamer who likes to chill and experiment<be>
+🎮 I am a gamer who likes to chill and experiment<br>
 📖 I'm currently reading _"The Man from the Future: The Visionary Life of John von Neumann"_
 
 ## 💻 Tech:
