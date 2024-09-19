@@ -1,4 +1,4 @@
-## 💫 Hi everyone, I am Lorenzo:
+## 👋 Hi everyone, I am Lorenzo:
 🌱 I'm on a journey to learn Godot 4.3<br>
 🎮 I am a gamer who likes to chill and experiment<br>
 📖 I'm currently reading _"The Man from the Future: The Visionary Life of John von Neumann"_
@@ -34,11 +34,11 @@
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white) 
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white) 
 ![LaTeX](https://img.shields.io/badge/LaTex-%23008080.svg?style=flat&logo=latex&logoColor=white) 
-![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=flat&logo=unity&logoColor=white) 
+![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=flat&logo=unity&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF.svg?style=flat&logo=godotengine&logoColor=white) 
 ![AndroidStudio](https://img.shields.io/badge/AndroidStudio-34A853.svg?style=flat&logo=android&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=flat&logo=jupyter&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=flat&logo=numpy&logoColor=white) 
-![Scipy](https://img.shields.io/badge/SciPy-8CAAE6.svg?style=flat&logo=scipy&logoColor=black) 
 
 <!--
 ## 🌐 Socials:
